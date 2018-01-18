@@ -1,0 +1,31 @@
+{
+  "request_id": "1514542809,cd31eaeb-4efc-4439-ab3a-a3e268603ac1",
+  "results": [
+    {
+      "face_token": "a447dcc5d88dbea8d7d19f35214ad23d",
+      "user_id": "",
+      "confidence": 97.389
+    },
+    {
+      "face_token": "25692fba067fec9c0a90c4ab96c1fc6c",
+      "user_id": "",
+      "confidence": 47.186
+    },
+    {
+      "face_token": "523ce899c798eababdc8528b4cec87c6",
+      "user_id": "",
+      "confidence": 30.057
+    },
+    {
+      "face_token": "3016a8900306fa3e218b29758f10495f",
+      "user_id": "",
+      "confidence": 26.993
+    }
+  ],
+  "time_used": 544,
+  "thresholds": {
+    "1e-4": 69.101,
+    "1e-3": 62.327,
+    "1e-5": 73.975
+  }
+}
